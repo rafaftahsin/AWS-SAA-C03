@@ -23,7 +23,7 @@ https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c03
 Ref: Best according to this thread -> https://www.reddit.com/r/AWSCertifications/comments/14enet4/which_saac03_course/ 
 
 This one https://www.udemy.com/course/aws-certified-solutions-architect-associate-saa-c03/ 
-Also do the practice tests
+Also do the practice tests https://www.udemy.com/course/practice-exams-aws-certified-cloud-practitioner/ 
 
 ### Tutorial and cheat sheet
 
